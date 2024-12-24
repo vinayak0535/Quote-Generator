@@ -104,3 +104,14 @@ span::before{
 
 }
 
+@media (max-width:760px) {
+    .container{
+        width: 500px;
+        max-width: 350px;
+    }
+    
+    blockquote{
+        font-size: 16px;
+    }
+}
+
